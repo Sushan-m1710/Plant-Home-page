@@ -1,4 +1,4 @@
-# Digital Marketing Home Page
+# Plant Home Page
 
 ![Image](./6.png)
 
@@ -7,7 +7,7 @@ Built With
 - Css
 
 Learnings
-- Lernt How to make a text and image next to each other.
+- learnt about svg files and how to use it
 
 Time Taken to complete
 - 4 hours
